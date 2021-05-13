@@ -1,0 +1,17 @@
+.likeable-image {
+  height: 300px;
+  position: relative;
+}
+
+.likeable-image img {
+  height: 100%;
+}
+
+.likeable-image a {
+  top: 10px;
+  left:  10px;
+  position: absolute;
+  text-decoration: none;
+  color: #FF759F;
+  font-size: 32px;
+}

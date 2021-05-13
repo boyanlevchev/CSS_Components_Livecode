@@ -1,0 +1,24 @@
+.video-container {
+  width: 100%;
+  position: relative;
+  width: fit-content;
+}
+
+.video-container video {
+  width: 100%;
+
+}
+
+.video-container-small {
+  position: relative;
+  width: fit-content;
+}
+
+.video-container-small video {
+  height: 50px;
+  width: 100px;
+}
+
+.video-list {
+  display: flex;
+}

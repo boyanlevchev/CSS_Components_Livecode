@@ -1,0 +1,13 @@
+.crazy-card {
+  width: 600px;
+}
+
+.crazy-card > div {
+  display:  flex;
+}
+
+.card-information {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

@@ -1,0 +1,30 @@
+.button {
+  background-color: #35BF52;
+  color: white;
+  border-radius: 8px;
+  padding: 24px 40px;
+  text-decoration: none;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.button-play-video {
+  position: absolute;
+  top:  50%;
+  right: 50%;
+  background-color: #35BF52;
+  padding: 30px;
+  border-radius:  50%;
+  color:  white;
+  font-size: 32px;
+  transform: translate(50%,-50%);
+}
+
+.small {
+  padding: 10px;
+  font-size: 16px;
+}
+
+/* .raleway {
+  font-family: 'Raleway', sans-serif;
+}
+ */
